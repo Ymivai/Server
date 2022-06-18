@@ -1,0 +1,20 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ymivai/Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ymivai/Server/issues"
+  },
+  "homepage": "https://github.com/Ymivai/Server#readme",
+  "description": ""
+}
