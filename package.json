@@ -17,5 +17,8 @@
     "url": "https://github.com/Ymivai/Server/issues"
   },
   "homepage": "https://github.com/Ymivai/Server#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
